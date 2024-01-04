@@ -17,6 +17,7 @@ export const SkillListStyles = styled.ul`
     gap: 4px;
   }
   .name-skill-title {
+   
   }
 
   .name-skill-icon {
